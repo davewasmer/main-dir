@@ -1,6 +1,6 @@
 {
   "name": "main-dir",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add support for the `mainDir` field in a node module",
   "main": "index.js",
   "scripts": {
@@ -29,6 +29,7 @@
     "tape": "^4.8.0"
   },
   "devDependencies": {
-    "debug": "^3.0.0"
+    "debug": "^3.0.0",
+    "standard-version": "^4.2.0"
   }
 }
